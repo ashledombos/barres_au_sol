@@ -1,0 +1,26 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Données téléchargées / cache
+data/
+*.parquet
+
+# Logs éventuels
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.bak
+
+# Archives locales
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
