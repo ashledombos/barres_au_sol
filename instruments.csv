@@ -23,6 +23,7 @@ GBPCAD,dukascopy,GBPCAD,,1e5
 GBPCHF,dukascopy,GBPCHF,,1e5
 GBPJPY,dukascopy,GBPJPY,,1e5
 GBPNZD,dukascopy,GBPNZD,,1e5
+GBPPLN,dukascopy,GBPPLN,,1e5
 GBPUSD,dukascopy,GBPUSD,,1e5
 NZDCAD,dukascopy,NZDCAD,,1e5
 NZDCHF,dukascopy,NZDCHF,,1e5
@@ -31,6 +32,7 @@ NZDUSD,dukascopy,NZDUSD,,1e5
 USDCAD,dukascopy,USDCAD,,1e5
 USDCNH,dukascopy,USDCNH,,1e5
 USDCZK,dukascopy,USDCZK,,1e5
+USDDKK,dukascopy,USDDKK,,1e5
 USDHKD,dukascopy,USDHKD,,1e5
 USDHUF,dukascopy,USDHUF,,1e5
 USDILS,dukascopy,USDILS,,1e5
@@ -40,6 +42,7 @@ USDNOK,dukascopy,USDNOK,,1e5
 USDPLN,dukascopy,USDPLN,,1e5
 USDSEK,dukascopy,USDSEK,,1e5
 USDSGD,dukascopy,USDSGD,,1e5
+USDTRY,dukascopy,USDTRY,,1e5
 USDZAR,dukascopy,USDZAR,,1e5
 USDCHF,dukascopy,USDCHF,,1e5
 
